@@ -8,9 +8,8 @@ import java.util.Set;
 public class Imenik {
 
 
-    static HashMap<String, TelefonskiBroj > telefonskiImenik = new HashMap<String, TelefonskiBroj>();
-    String ime;
-    TelefonskiBroj  brojTel;
+    HashMap<String, TelefonskiBroj > telefonskiImenik = new HashMap<String, TelefonskiBroj>();
+
 
     public Imenik () {
 
